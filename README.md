@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi, I'm latkali (or l)
+I'm a web developer based in Wisconsin.
+- Free software enthusiast
+- Domain collector
+- Tech nerd
 
 <!--
 **latkali/latkali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

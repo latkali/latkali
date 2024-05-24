@@ -3,7 +3,7 @@ I'm a web developer based in Wisconsin. I'm a...
 - Free software enthusiast
 - Domain collector
 - Tech nerd
-- 
+
 Not sure how often I'll use this, but if you want to contact me visit my site at <a href="https://latka.li" style="color: black;">latka.li</a>
 
 <!--
